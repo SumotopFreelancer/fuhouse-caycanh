@@ -23,7 +23,7 @@ ob_start();
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://caycanh.fuhouse.vn/';
+$config['base_url'] = 'http://fuhouse-caycanh.web/';
 /*
 |--------------------------------------------------------------------------
 | Index File
